@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matheussalencar
 - 👀 I’m interested in web development, artificial intelligence and software engineering 
 - 🌱 I’m currently learning Golang, Java, Docker and cloud ☁️ 
-- 💞️ I’m looking to collaborate on backend projects
+- 🚀 I’m looking to collaborate on backend projects
 - 📫 How to reach me -> matheus.hsantos@mercadolivre.com
 
 <!---
