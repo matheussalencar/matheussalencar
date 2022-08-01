@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheussalencar
 - 👀 I’m interested in web development, artificial intelligence and software engineering 
-- 🌱 I’m currently learning Golang, Java, Docker and cloud ☁️ 
+- 🌱 I’m currently learning Golang, Docker and cloud ☁️ 
 - 🚀 I’m looking to collaborate on backend projects
 
 
